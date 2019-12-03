@@ -1,6 +1,6 @@
 body {
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
-    
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 150%;
 }
 
 header {
@@ -8,30 +8,34 @@ header {
     margin-right: auto;
     margin-left: auto;  
     background-color: #ffffff;
-    border-block-color: #cccccc;
+    border-color: #cccccc;
 }
 
 .header-content {
     width: 960px;
     margin-right: auto;
-    margin-left: auto;  
+    margin-left: auto;
+    
 }
 
 h1 {
-    font-family: "Georgia", Times, "Times New Roman", serif;
+    font-family: Georgia, Times, "Times New Roman", serif;
     color: #ffffff;
     background-color: #4aaaa5;
+    display: inline;
+    font-size: 18px;
 
 }
 
 a {
     color: #777777;
+    float: right;
 
 }
 
 .container {
     background-color: #ffffff;
-    border-block-color: #dddddd;
+    border-color: #dddddd;
     width: 960px;
     margin-right: auto;
     margin-left: auto;
@@ -42,8 +46,9 @@ a {
 }
 
 h2 {
-    font-family: "Georgia", Times, "Times New Roman", serif;
+    font-family: Georgia, Times, "Times New Roman", serif;
     color:#4aaaa5;
+    font-size: 18px;
 }
 
 #about-me-image {
