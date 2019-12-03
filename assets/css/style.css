@@ -5,8 +5,7 @@ body {
 
 header {
     width: 100%;
-    margin-right: auto;
-    margin-left: auto;  
+    margin: 25px auto;
     background-color: #ffffff;
     border-color: #cccccc;
 }
@@ -24,13 +23,15 @@ h1 {
     background-color: #4aaaa5;
     display: inline;
     font-size: 18px;
+    font-weight: bold;
+    padding: 25px;
 
 }
 
 a {
     color: #777777;
     float: right;
-
+    font-size: 12px;
 }
 
 .container {
@@ -49,16 +50,18 @@ h2 {
     font-family: Georgia, Times, "Times New Roman", serif;
     color:#4aaaa5;
     font-size: 18px;
+    font-weight: bold;
+    padding: 25px;
 }
 
 #about-me-image {
-  
-
+    float: left;
 }
 
 p {
     color: #777777;
-
+    display: inline;
+    font-size: 12px;
 }
 
 .flex-container {
