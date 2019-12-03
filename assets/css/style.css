@@ -1,6 +1,8 @@
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     line-height: 125%;
+    
+    /* Background pattern from Toptal Subtle Patterns https://www.toptal.com/designers/subtlepatterns/ */
     background-image: url(prism_background/prism.png);
 }
 
@@ -49,6 +51,7 @@ a {
 
 #about-me {
     overflow: auto;
+    padding-bottom: 20px;
 }
 
 h2 {
