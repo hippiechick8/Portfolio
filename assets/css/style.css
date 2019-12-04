@@ -3,7 +3,7 @@ body {
     line-height: 125%;
     
     /* Background pattern from Toptal Subtle Patterns https://www.toptal.com/designers/subtlepatterns/ */
-    background-image: url(prism_background/prism.png);
+    background-image: url("../images/prism.png");
 }
 
 header {
