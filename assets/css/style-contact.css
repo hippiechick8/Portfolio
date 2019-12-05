@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    line-height: 125%;
+    
+    /* Background pattern from Toptal Subtle Patterns https://www.toptal.com/designers/subtlepatterns/ */
+    background-image: url("../images/prism.png");
+}
+
+header {
+    width: 100%;
+    margin: 0 auto 25px auto;
+    background-color: #ffffff;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    padding: 20px 0px 20px 0;
+}
+
+.header-content {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;    
+}
+
+h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    display: inline;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+a {
+    color: #777777;
+    float: right;
+    font-size: 12px;
+    text-decoration: none;
+    
+}
+
+.container {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#contact {
+    overflow: auto;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    color:#4aaaa5;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    padding: 20px 20px 20px 0;
+}
+
+.flex-container {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    display: block;
+    width: 100%;
+    border-top: 8px solid #4aaaa5;
+    padding-top: 30px;
+    font-size: 8px;
+    color: #ffffff;
+    background-color: #666666;
+    text-align: center;
+}
