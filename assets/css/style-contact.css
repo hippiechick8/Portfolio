@@ -50,7 +50,6 @@ a {
 
 #contact {
     overflow: auto;
-    padding-bottom: 20px;
 }
 
 h2 {
@@ -66,8 +65,18 @@ h2 {
 }
 
 #contact-form {
-    width: 960px
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
+input {
+    margin-bottom: 15px;
+}
+
+input, textarea {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px;
 }
 
 #submit-button {
@@ -80,7 +89,7 @@ h2 {
     text-decoration: none;
     display: inline-block;
     font-size: 18px;
-    margin: 0px;
+    margin-bottom: 31px;
     cursor: pointer;
 }
 
