@@ -49,6 +49,7 @@ a {
 
 #portfolio {
     overflow: auto;
+    margin-bottom: 150px;
 }
 
 h2 {
