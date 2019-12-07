@@ -66,10 +66,11 @@ h2 {
 .image1-lefttop { 
     /* Image by Christian Klein https://pixabay.com/users/XtianDuGard-5845424/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4642101 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4642101 */
     background-image: url(../images/placeholder1.jpg);
+    background-size: 100% 100%;
     float: left;
     width: 30%;
     height: 200px; 
-    margin-left: 20px;
+    margin: 0px 10px 45px 20px;
 }
 
 .image1-text {
@@ -80,11 +81,13 @@ h2 {
     text-align: center;
     width: auto;
     padding: 10px 20px;
+    margin-top: 155px;
 }
 
 .image2-centercenter { 
     /* Image by Ronny Overhate  https://pixabay.com/users/ROverhate-1759589/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1127666 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1127666 */
     background-image: url(../images/placeholder2.jpg);
+    background-size: 100% 100%;
     float: left;
     width: 30%;
     height: 200px;
@@ -99,16 +102,18 @@ h2 {
     text-align: center;
     width: auto;
     padding: 10px 20px;
+    margin-top: 155px;
 }
 
 .image3-leftcenter { 
     /* Image by Devanath https://pixabay.com/users/Devanath-1785462/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1205631 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1205631 */
     background-image: url(../images/placeholder3.jpg);
+    background-size: 100% 100%;
     clear: both;
     float: left;
     width: 30%;
     height: 200px; 
-    margin-left: 20px;
+    margin: 0px 10px 45px 20px;
 }
 
 .image3-text {
@@ -119,11 +124,13 @@ h2 {
     text-align: center;
     width: auto;
     padding: 10px 20px;
+    margin-top: 155px;
 }
 
 .image4-center { 
     /* Image by Kohji Asakawa https://pixabay.com/users/DeltaWorks-37465/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=250016 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=250016 */
     background-image: url(../images/placeholder4.jpg);
+    background-size: 100% 100%;
     float: left;
     width: 30%;
     height: 200px;
@@ -138,16 +145,18 @@ h2 {
     text-align: center;
     width: auto;
     padding: 10px 20px;
+    margin-top: 155px;
 }
 
 .image5-leftbottom { 
     /* Image by DreamyArt https://pixabay.com/users/DreamyArt-512893/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=571956  from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=571956 */
     background-image: url(../images/placeholder5.jpg);
+    background-size: 100% 100%;
     clear: both;
     float: left;
     width: 30%;
     height: 200px; 
-    margin-left: 20px;
+    margin: 0px 10px 65px 20px;
 }
 
 .image5-text {
@@ -158,6 +167,7 @@ h2 {
     text-align: center;
     width: auto;
     padding: 10px 20px;
+    margin-top: 155px;
 }
 
 .flex-container {
@@ -170,6 +180,6 @@ h2 {
     padding-top: 30px;
     font-size: 8px;
     color: #ffffff;
-    background-color: #666666;
+    background-color: #610b0b;
     text-align: center;
 }
