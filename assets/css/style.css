@@ -50,6 +50,7 @@ a {
 #about-me {
     overflow: auto;
     padding-bottom: 20px;
+    margin-bottom: 150px;
 }
 
 h2 {
