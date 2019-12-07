@@ -63,73 +63,102 @@ h2 {
     padding: 20px 20px 20px 0;
 }
 
-#image-lefttop { 
+.image1-lefttop { 
+    /* Image by Christian Klein https://pixabay.com/users/XtianDuGard-5845424/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4642101 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4642101 */
+    background-image: url(../images/placeholder1.jpg);
+    float: left;
+    width: 30%;
+    height: 200px; 
+    margin-left: 20px;
+}
+
+.image1-text {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: small;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    width: auto;
+    padding: 10px 20px;
+}
+
+.image2-centercenter { 
+    /* Image by Ronny Overhate  https://pixabay.com/users/ROverhate-1759589/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1127666 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1127666 */
+    background-image: url(../images/placeholder2.jpg);
     float: left;
     width: 30%;
     height: 200px;
-    padding: 0px 20px 20px 20px; 
-}
-
-#lefttop {
-    font-family: Georgia, Times, "Times New Roman", serif;
-    color: #ffffff;
-    background-color: #4aaaa5;
-}
-
-#image-centercenter { 
-    float: inline-end;
-    width: 30%;
-    height: 200px;
-    padding: 0px 20px 20px 20px; 
+    margin-left: 20px;
 }
  
-#centercenter {
+.image2-text {
     font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: small;
     color: #ffffff;
     background-color: #4aaaa5;
+    text-align: center;
+    width: auto;
+    padding: 10px 20px;
 }
 
-#image-leftcenter { 
+.image3-leftcenter { 
+    /* Image by Devanath https://pixabay.com/users/Devanath-1785462/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1205631 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1205631 */
+    background-image: url(../images/placeholder3.jpg);
+    clear: both;
+    float: left;
+    width: 30%;
+    height: 200px; 
+    margin-left: 20px;
+}
+
+.image3-text {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: small;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    width: auto;
+    padding: 10px 20px;
+}
+
+.image4-center { 
+    /* Image by Kohji Asakawa https://pixabay.com/users/DeltaWorks-37465/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=250016 from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=250016 */
+    background-image: url(../images/placeholder4.jpg);
     float: left;
     width: 30%;
     height: 200px;
-    padding: 0px 20px 20px 20px; 
+    margin-left: 20px;
 }
-
-#leftcenter {
+ 
+.image4-text {
     font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: small;
     color: #ffffff;
     background-color: #4aaaa5;
+    text-align: center;
+    width: auto;
+    padding: 10px 20px;
 }
 
-#image-center { 
-    float: inline-end;
-    width: 30%;
-    height: 200px;
-    padding: 0px 20px 20px 20px; 
-}
-
-#center {
-    font-family: Georgia, Times, "Times New Roman", serif;
-    color: #ffffff;
-    background-color: #4aaaa5;
-}
-
-#image-leftbottom { 
+.image5-leftbottom { 
+    /* Image by DreamyArt https://pixabay.com/users/DreamyArt-512893/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=571956  from Pixabay https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=571956 */
+    background-image: url(../images/placeholder5.jpg);
+    clear: both;
     float: left;
     width: 30%;
-    height: 200px;
-    padding: 0px 20px 20px 20px; 
+    height: 200px; 
+    margin-left: 20px;
 }
 
-#leftbottom {
+.image5-text {
     font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: small;
     color: #ffffff;
     background-color: #4aaaa5;
+    text-align: center;
+    width: auto;
+    padding: 10px 20px;
 }
-
-
-
 
 .flex-container {
     position: fixed;
